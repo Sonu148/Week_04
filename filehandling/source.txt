@@ -1,0 +1,1 @@
+Java provides a rich set of I/O (Input/Output) classes to read and write data. These classes are part of the java.io package and are based on the concept of streams. A stream represents a sequence of data and can be used for reading from or writing to a data source or destination.
